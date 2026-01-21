@@ -48,7 +48,7 @@ a{
     top :-26px ;
     z-index: 1 ;
 }
-.hero-wrap{
+.header{
     position: relative;
     display: flex;
     flex-direction: column;
