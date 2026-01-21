@@ -47,6 +47,7 @@ a{
     position: sticky;
     top :-26px ;
     z-index: 1 ;
+    background-color: #0689FF;
 }
 .hero-wrap{
     position: relative;
@@ -61,7 +62,7 @@ a{
      display: flex;
      align-items: center;
      padding: 12px 0 ;
-     padding-top: 12px 0 ;
+     padding-top: 38px ;
 }
 .navbar ul {
     display: flex;
